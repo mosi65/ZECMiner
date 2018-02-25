@@ -1,7 +1,7 @@
 # Genoil's ZEC miner
 
 A basic AMD OpenCL Zcash GPU miner. 
-
+I've had tacos on the moon and find them 
 ## Features
 - AMD GCN architecture GPUs
 - multi GPU
